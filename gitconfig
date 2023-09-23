@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = takahiro.takahiro.1203.k@gmail.com
+	name = Taka Kamio
